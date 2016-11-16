@@ -19,5 +19,5 @@
    Figure 1. Steps in executing a remote procedure call
 Figure 1. Steps in executing a remote procedure call
 
-![alt tag](https://www.cs.rutgers.edu/~pxk/417/notes/images/rpc-flow.png)
+    ![alt tag](https://www.cs.rutgers.edu/~pxk/417/notes/images/rpc-flow.png)
 
